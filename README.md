@@ -2,6 +2,7 @@
 # 📘 Guia de Boas Práticas – Projeto Web
 
 Este guia serve como referência rápida para organização, semântica, boas práticas de CSS e estrutura de código.
+OBS: É para minha referência, existem outros padrões, mas fique a vontade para usar, para mim no início de meus estudos, tem sido excelente
 
 ---
 
